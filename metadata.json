@@ -1,0 +1,6 @@
+{
+  "name": "RepoVault",
+  "description": "A clean and efficient manager for your GitHub repositories. Features search, tag filtering, sorting, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
